@@ -1,5 +1,6 @@
 ;; lsdblog.el
 ;; Scripts para mi blog en http://rat.netlsd.com/
+;;
 
 (defun lsdblog-post-buffer ()
   "Nuevo post en base al buffer actual"
